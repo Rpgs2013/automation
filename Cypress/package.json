@@ -1,0 +1,22 @@
+{
+  "name": "cypress",
+  "version": "1.0.0",
+  "description": "Proyect test cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rpgs2013/automation.git"
+  },
+  "author": "Raúl Gallego Sandoval",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rpgs2013/automation/issues"
+  },
+  "homepage": "https://github.com/Rpgs2013/automation#readme",
+  "dependencies": {
+    "cypress": "^13.16.0"
+  }
+}
